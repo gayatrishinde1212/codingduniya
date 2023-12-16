@@ -1,3 +1,3 @@
 # codingduniya
 This is my first git repository
-<br>My Name is Gayatri
+<br>My Name is Gayatri Shinde
